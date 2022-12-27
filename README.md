@@ -10,8 +10,8 @@
 - [Project usage](#Usage)
 - [Project contributing](#Contributing)
 - [Project testing](#Testing)
-- [Project email](#Email)
-- [Project github](#GitHub)
+- [Project email](#Questions)
+- [Project github](#Questions)
 - [Project credits](#Credits)
 - [Project license](#License)
 ## Description
@@ -30,7 +30,11 @@ This application may be used by anyone who wants to dynamically create a README 
 This application must be run locally on the command line of the user's computer and requires node modules be installed.
 ## Contributions
 Contributions to this applicaiton may be made by emailing the developer via GitHub https://github.com/MiahHub.
+## Testing
+As of this publishing there are no tests written for this application.
 ## Questions
 Questions can be addresed by contcting the developer via GitHub https://github.com/MiahHub.
+## Credits
+Jeremiah Chesley, https://www.youtube.com/watch?v=QFV7jzu8mKw&t=23s tutorial.
 ## License
 This application is licensed under the https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT
