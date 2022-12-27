@@ -21,6 +21,8 @@ This application may be used by anyone who wants to dynamically create a README 
 ## Installation
 This application must be run locally on the command line of the user's computer and requires node modules be installed.
 ## Contributions
-Contributions to this applicaiton may be made by emailing the developer at 
+Contributions to this applicaiton may be made by emailing the developer via GitHub https://github.com/MiahHub.
 ## Questions
+Questions can be addresed by contcting the developer via GitHub https://github.com/MiahHub.
 ## License
+This application is licensed under the 
