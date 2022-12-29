@@ -38,3 +38,4 @@ Questions can be addresed by contcting the developer via GitHub https://github.c
 Jeremiah Chesley, https://www.youtube.com/watch?v=QFV7jzu8mKw&t=23s tutorial.
 ## License
 This application is licensed under the https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT
+## Link to video walk-thru:  https://drive.google.com/file/d/1TA63VCP6XwUogzW6nkZ_q9C1-8fN9dC7/view
